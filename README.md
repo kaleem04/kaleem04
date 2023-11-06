@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaleem04" alt="kaleem04" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kaleemxbadshah" target="blank"><img src="https://img.shields.io/twitter/follow/kaleemxbadshah?logo=twitter&style=for-the-badge" alt="kaleemxbadshah" /></a> </p>
-<p align="left"> <a href="https://instagram.com/code_tycoon" target="blank"><img src="https://img.shields.io/instagram/follow/code_tycoon?logo=instagram&style=for-the-badge" alt="code_tycoon" /></a> </p>
+
 - 🔭 I’m currently working on **Mobile App Development**
 
 - 🌱 I’m currently learning **Kotlin,Git,Project Planning**
