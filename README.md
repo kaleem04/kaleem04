@@ -28,12 +28,7 @@
   
 - 💬 Ask me about **.Net,C Language,Java**
 
-- 📫 How to reach me **kaleempathan424@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SzGMoHoxhKsWdzKZHK2TBctctYSoylvl/view?usp=sharing](https://drive.google.com/file/d/1SzGMoHoxhKsWdzKZHK2TBctctYSoylvl/view?usp=sharing)
-
-- ⚡ Fun fact **I think i am Funny, Cool , Friendly**
-
+]
 <h3 align="left">Connect with me:</h3>
 
 
