@@ -11,7 +11,7 @@
 <h3 align="center">A passionate Android Develper from Pakistan</h3>
 
 <p align="center">
-<a href="https://techaddict.live/"><img src="https://img.shields.io/badge/personal website-F15B2A?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://kaleem04.github.io/my_portfolio/"><img src="https://img.shields.io/badge/personal website-F15B2A?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kaleem-ullah04/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b5fbb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
  <br/>
